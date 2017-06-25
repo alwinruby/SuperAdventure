@@ -17,5 +17,7 @@ Aim to learn C# by making a simple Role Playing Game.
         
         6. Base Class for Inheritance
         
-        7. Initialisation with constructor.
+        7. Initialisation with constructors
+        
+        8. Constructors with derived classes.
         
