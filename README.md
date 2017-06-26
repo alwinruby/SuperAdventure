@@ -21,3 +21,5 @@ Aim to learn C# by making a simple Role Playing Game.
         
         8. Constructors with derived classes.
         
+        9. Classes as datatypes
+        
