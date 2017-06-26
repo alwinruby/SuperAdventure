@@ -23,3 +23,5 @@ Aim to learn C# by making a simple Role Playing Game.
         
         9. Classes as datatypes
         
+        10. Collections of objects
+        
