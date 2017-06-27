@@ -54,6 +54,15 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvQuests)).BeginInit();
             this.SuspendLayout();
             // 
+            // rtbMessages
+            // 
+            rtbMessages.Location = new System.Drawing.Point(347, 130);
+            rtbMessages.Name = "rtbMessages";
+            rtbMessages.ReadOnly = true;
+            rtbMessages.Size = new System.Drawing.Size(360, 286);
+            rtbMessages.TabIndex = 19;
+            rtbMessages.Text = "";
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -157,6 +166,7 @@
             this.btnUseWeapon.TabIndex = 12;
             this.btnUseWeapon.Text = "Use";
             this.btnUseWeapon.UseVisualStyleBackColor = true;
+            this.btnUseWeapon.Click += new System.EventHandler(this.btnUseWeapon_Click);
             // 
             // btnUsePotion
             // 
@@ -166,6 +176,7 @@
             this.btnUsePotion.TabIndex = 13;
             this.btnUsePotion.Text = "Use";
             this.btnUsePotion.UseVisualStyleBackColor = true;
+            this.btnUsePotion.Click += new System.EventHandler(this.btnUsePotion_Click);
             // 
             // btnNorth
             // 
@@ -175,6 +186,7 @@
             this.btnNorth.TabIndex = 14;
             this.btnNorth.Text = "North";
             this.btnNorth.UseVisualStyleBackColor = true;
+            this.btnNorth.Click += new System.EventHandler(this.btnNorth_Click);
             // 
             // btnEast
             // 
@@ -215,15 +227,6 @@
             this.rtbLocation.TabIndex = 18;
             this.rtbLocation.Text = "";
             this.rtbLocation.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
-            // 
-            // rtbMessages
-            // 
-            rtbMessages.Location = new System.Drawing.Point(347, 130);
-            rtbMessages.Name = "rtbMessages";
-            rtbMessages.ReadOnly = true;
-            rtbMessages.Size = new System.Drawing.Size(360, 286);
-            rtbMessages.TabIndex = 19;
-            rtbMessages.Text = "";
             // 
             // dgvInventory
             // 

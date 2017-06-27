@@ -25,3 +25,14 @@ Aim to learn C# by making a simple Role Playing Game.
         
         10. Collections of objects
         
+        11. Static class
+        
+        12. UI controls
+        
+        13. Functions Procedures and Methods
+        
+        14. Variables, if statements, Foreach loops
+        
+        15. 
+            
+        
