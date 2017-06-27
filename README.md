@@ -33,6 +33,10 @@ Aim to learn C# by making a simple Role Playing Game.
         
         14. Variables, if statements, Foreach loops
         
-        15. 
+        15. Random Number Generator
+        
+        16. Move player function
+        
+        17.
             
         
