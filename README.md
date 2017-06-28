@@ -37,6 +37,7 @@ Aim to learn C# by making a simple Role Playing Game.
         
         16. Move player function
         
-        17.
+        17. Running on another machine
+        
             
         
